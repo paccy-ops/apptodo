@@ -1,9 +1,12 @@
 <component name="ProjectDictionaryState">
   <dictionary name="pacifique">
     <words>
+      <w>authtoken</w>
+      <w>completetodo</w>
       <w>createtodo</w>
       <w>datecompleted</w>
       <w>gunicorn</w>
+      <w>todos</w>
       <w>todowoo</w>
       <w>whitenoise</w>
     </words>
